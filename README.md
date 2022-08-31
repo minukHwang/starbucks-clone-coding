@@ -1,7 +1,7 @@
 # starbucks-clone-coding
 
 ### 💡 HTML CSS JS 학습을 위한 스타벅스 클론 코딩
----
+
 #### 학습 내용
 ---
 - HTML의 이해
